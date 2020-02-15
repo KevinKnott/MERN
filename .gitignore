@@ -1,3 +1,4 @@
 MERN_Udemy.code-workspace
 settings.json
 node_modules/
+config/default.json
